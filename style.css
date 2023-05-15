@@ -32,3 +32,8 @@ img{
     border-color: rgb(91, 3, 255);
     border-style: solid;
 }
+
+form {
+    align-items: center;
+    column-count: 1;
+}
